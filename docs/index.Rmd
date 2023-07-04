@@ -50,21 +50,21 @@ https://doi.org/10.1139/juvs-2018-0002
 
 **Ferguson**, M.C., J. Barlow, S.B. Reilly, and T. Gerrodette. 2006. Predicting Cuvier's (Ziphius cavirostris) and Mesoplodon beaked whale population density from habitat characteristics in the eastern tropical Pacific Ocean. Journal of Cetacean Research and Management 7(3): 287-299. https://doi.org/10.47536/jcrm.v7i3.738  
 
-**Ferguson**, M.C., J.T. Clarke, R. Angliss, J. Bengtson, A. Brower, J. Citta, P.J. Clapham, P. Conn, K.A. Forney, J.C. George, and G.H. Givens. 2018. Bering-Chukchi-Beaufort bowhead whale abundance estimation survey workshop report. Paper SC/67b/AWMP16 presented to the IWC Scientific Committee, May 2018.  
+**Ferguson**, M.C., J.T. Clarke, R. Angliss, J. Bengtson, A. Brower, J. Citta, P.J. Clapham, P. Conn, K.A. Forney, J.C. George, and G.H. Givens. 2018. Bering-Chukchi-Beaufort bowhead whale abundance estimation survey workshop report. Paper SC/67b/AWMP16 presented to the IWC Scientific Committee, May 2018. [pdf](https://github.com/megancatonferguson/MCF_CV/blob/main/pdfs/SC_67B_AWMP_16.pdf)  
 
 **Ferguson**, M.C., J.T. Clarke, A.A. Brower, A.L. Willoughby, and S.R. Okkonen. 2021. Ecological variation in the western Beaufort Sea. In: J.C. George and J.G.M. Thewissen (Eds.), The Bowhead Whale Balaena mysticetus: biology and human interactions. Academic Press, pp. 365-379.  
 
 **Ferguson**, M.C., J. T. Clarke, A. L. Willoughby, A. A. Brower, and A. D. Rotrock. 2021. Geographically stratified abundance estimate for Bering-Chukchi-Beaufort Seas bowhead whales (Balaena mysticetus) from an August 2019 aerial line-transect survey in the Beaufort Sea and Amundsen Gulf. U.S. Dep. Commer., NOAA Technical Memorandum NMFS-AFSC-428, 54 p. [pdf](https://repository.library.noaa.gov/view/noaa/33451) 
 
-**Ferguson**, M.C., C. Curtice, and J. Harrison. 2015. Biologically Important Areas for cetaceans within U.S. waters: Gulf of Alaska region. Aquatic Mammals 41(1): 65-78.  
+**Ferguson**, M.C., C. Curtice, and J. Harrison. 2015. Biologically Important Areas for cetaceans within U.S. waters: Gulf of Alaska region. Aquatic Mammals 41(1): 65-78. http://dx.doi.org/10.1578/AM.41.1.2015.1  
 
-**Ferguson**, M.C., C. Curtice, J. Harrison, and S.M. Van Parijs. 2015. Biologically Important Areas for marine mammals within U.S. waters: Overview and rationale. Aquatic Mammals 41(1):2-16.  
+**Ferguson**, M.C., C. Curtice, J. Harrison, and S.M. Van Parijs. 2015. Biologically Important Areas for marine mammals within U.S. waters: Overview and rationale. Aquatic Mammals 41(1):2-16. http://dx.doi.org/10.1578/AM.41.1.2015.1 
 
-**Ferguson**, M.C., D.L. Miller, J.T. Clarke, A.A. Brower, A.L. Willoughby, and A.D. Rotrock. 2022. Spatial modeling, parameter uncertainty, and precision of density estimates from line-transect surveys: a case study with Western Arctic bowhead whales. Paper SC/68d/ASI/01 presented to the IWC Scientific Committee, May 2022.  
+**Ferguson**, M.C., D.L. Miller, J.T. Clarke, A.A. Brower, A.L. Willoughby, and A.D. Rotrock. 2022. Spatial modeling, parameter uncertainty, and precision of density estimates from line-transect surveys: a case study with Western Arctic bowhead whales. Paper SC/68d/ASI/01 presented to the IWC Scientific Committee, May 2022.
 
 **Ferguson**, M.C., S.F. Tóth, J.T. Clarke, A.L. Willoughby, A.A. Brower, and T.P. White. 2023. Biologically Important Areas for Bowhead Whales (Balaena mysticetus): Optimal site selection with integer programming. Frontiers in Marine Science 10: 961163. DOI 10.3389/fmars.2023.961163.  
 
-**Ferguson**, M.C., J. Waite, C. Curtice, J.T. Clarke, and J. Harrison. 2015. Biologically Important Areas for cetaceans within U.S. waters: Aleutian Islands and Bering Sea region. Aquatic Mammals 41(1):79-93.  
+**Ferguson**, M.C., J. Waite, C. Curtice, J.T. Clarke, and J. Harrison. 2015. Biologically Important Areas for cetaceans within U.S. waters: Aleutian Islands and Bering Sea region. Aquatic Mammals 41(1):79-93. http://dx.doi.org/10.1578/AM.41.1.2015.1 
 
 Angliss, R.P., M.C. **Ferguson**, P. Hall, V. Helker, A. Kennedy, and T. Sformo. 2018. Comparing manned aerial surveys to unmanned aerial surveys for cetacean monitoring in the Arctic: Operational results and recommendations. Journal of Unmanned Vehicle Systems 6(3): 109-127.  
 
