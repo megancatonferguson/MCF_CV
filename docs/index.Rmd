@@ -46,7 +46,7 @@ I am a Research Fisheries Biologist at NOAA Fisheries’ Marine Mammal Laborator
 **Ferguson**, M.C., R.P. Angliss, A. Kennedy, B. Lynch, A. Willoughby, V. Helker, A.A. Brower, and J.T. Clarke. 2018. Performance of manned and unmanned aerial surveys to collect visual data and imagery for estimating arctic cetacean density and associated uncertainty. Journal of Unmanned Vehicle Systems 6(3):128-154. 
 https://doi.org/10.1139/juvs-2018-0002  
 
-**Ferguson**, M.C., J. Barlow, P. Fiedler, S.B. Reilly, and T. Gerrodette. 2006. Spatial models of delphinid (family Delphinidae) encounter rate and group size in the eastern tropical Pacific Ocean. Ecological Modelling 193: 645-662. [pdf](https://github.com/erinann/erinann.github.io/blob/main/pubs/Ferguson%20et%20al%202006%20-%20Spatial%20models%20of%20delphinid%20encounter%20rate%20and%20group%20size%20in%20the%20ETP.pdf)  
+**Ferguson**, M.C., J. Barlow, P. Fiedler, S.B. Reilly, and T. Gerrodette. 2006. Spatial models of delphinid (family Delphinidae) encounter rate and group size in the eastern tropical Pacific Ocean. Ecological Modelling 193: 645-662. https://doi.org/10.1016/j.ecolmodel.2005.10.034
 
 **Ferguson**, M.C., J. Barlow, S.B. Reilly, and T. Gerrodette. 2006. Predicting Cuvier's (Ziphius cavirostris) and Mesoplodon beaked whale population density from habitat characteristics in the eastern tropical Pacific Ocean. Journal of Cetacean Research and Management 7(3): 287-299. https://doi.org/10.47536/jcrm.v7i3.738  
 
