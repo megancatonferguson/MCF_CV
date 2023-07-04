@@ -37,7 +37,7 @@ I am a Research Fisheries Biologist at NOAA Fisheries’ Marine Mammal Laborator
 
 
 ## Select Journal Articles and Reports  
-**Ferguson**, M.C. 2005. Cetacean population density in the eastern Pacific Ocean: Analyzing patterns with predictive spatial models. University of California San Diego, Scripps Institution of Oceanography, PhD Dissertation, 221pp.  
+**Ferguson**, M.C. 2005. Cetacean population density in the eastern Pacific Ocean: Analyzing patterns with predictive spatial models. University of California San Diego, Scripps Institution of Oceanography, PhD Dissertation, 221pp. [pdf](https://github.com/megancatonferguson/MCF_CV/blob/main/pdfs/Ferguson2005dissertation.pdf)  
 
 **Ferguson**, M.C. 2012. Quantifying spatial characteristics of the Bowhead Whale Aerial Survey Project (BWASP) survey design. Journal of Cetacean Research and Management 12(1):39-44 https://doi.org/10.47536/jcrm.v12i1.589  
 
