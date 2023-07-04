@@ -8,7 +8,7 @@ output: html_document
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-megan.ferguson@noaa.gov
+meganferg@gmail.com
 
 I am a Research Fisheries Biologist at NOAA Fisheries’ Marine Mammal Laboratory, located at the Alaska Fisheries Science Center in Seattle, Washington. Since 2008, I have focused on Arctic cetacean research, conservation, management, and policy. Quantitative ecology and decision-making form the core of my research interests. When I am not in the office or the field, I am with my dog, walking rescue dogs, or in the eye of a chalk dust storm at the CrossFit gym.
 
